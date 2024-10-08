@@ -1,10 +1,10 @@
 Source: idor-map
 Section: devel
 Priority: optional
-Maintainer: Votre Nom <votre@email.com>
+Maintainer: Ethc4 <cs7778503@gmail.com>
 Build-Depends: debhelper (>= 10), python3, python3-setuptools
 Standards-Version: 4.5.0
-Homepage: https://github.com/votre-utilisateur/idor-map
+Homepage: https://github.com/0625963141/idor-map
 
 Package: idor-map
 Architecture: all
