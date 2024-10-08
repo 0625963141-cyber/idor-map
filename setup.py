@@ -17,7 +17,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='cs778',
-    author_email='cs7778@github.com,
+    author_email='cs7778@github.com',
     url='https://github.com/0625963141-cyber/idor-map',
     license='MIT',
     classifiers=[
